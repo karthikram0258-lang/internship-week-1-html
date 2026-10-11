@@ -2,74 +2,98 @@
 
 This repository contains my Week 1 internship assignments based on HTML fundamentals.
 
-## Assignments Completed
+## 🌐 Live Website
 
-### Assignment 1 - Basic HTML Page
+Visit the deployed website:
 
-Created an HTML page containing:
+https://karthikram0258-lang.github.io/internship-week-1-html/
+
+## 📚 Assignments Completed
+
+### Assignment 1 - Basic HTML Web Page
+
+Created a basic HTML webpage containing:
 
 - Heading
 - Paragraph
-- Image
+- College image
+- HTML structure
 
-File: `index.html`
+**File:** `index.html`
+
+---
 
 ### Assignment 2 - Student Marks Table
 
-Created a table containing:
+Created a student marks table containing:
 
 - Student Name
 - Roll Number
 - Marks
 
-File: `student-table.html`
+**File:** `student-table.html`
 
-### Assignment 3 - Registration Form
+---
+
+### Assignment 3 - Student Registration Form
 
 Created a student registration form containing:
 
-- Name input
+- Full Name input
 - Email input
 - Password input
 - Course selection dropdown
-- Submit button
+- Register button
 
-File: `registration.html`
+**File:** `registration.html`
 
-### Assignment 4 - Multiple Web Pages
+---
 
-Created three HTML pages with navigation links:
+### Assignment 4 - Multiple Web Pages and Navigation
+
+Created multiple interconnected HTML pages with navigation links:
 
 - Home
 - About
+- Registration
+- Students
 - Contact
 
-Files:
+### Pages
 
-- `pages/home.html`
+- `index.html`
 - `pages/about.html`
 - `pages/contact.html`
+- `registration.html`
+- `student-table.html`
 
-## Technologies Used
+All pages are connected using HTML hyperlinks.
+
+---
+
+## 🛠️ Technologies Used
 
 - HTML5
-- Visual Studio Code
 - GitHub
+- GitHub Pages
 
-## Project Structure
+---
+
+## 📁 Project Structure
 
 ```text
-Internship-HTML-Week-1
+internship-week-1-html/
 │
 ├── index.html
-├── student-table.html
 ├── registration.html
+├── student-table.html
 ├── README.md
 │
-├── images
+├── images/
+│   ├── .gitkeep
 │   └── college.jpeg
 │
-└── pages
+└── pages/
     ├── home.html
     ├── about.html
     └── contact.html
